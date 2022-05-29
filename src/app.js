@@ -1,4 +1,4 @@
-const clientId = '980527382165336064'; // Put here the client Id you copied.
+const clientId = 'CLIENT-ID-HERE'; // Put here the client Id you copied.
 const DiscordRPC = require('discord-rpc');
 const RPC = new DiscordRPC.Client({ transport: 'ipc' });
 
