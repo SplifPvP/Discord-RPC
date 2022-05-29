@@ -22,7 +22,7 @@ async function setActivity() {
             },
             {
                 label: `Create a Ticket`, 
-                url: `https://discord.com/channels/830844991059394591/966465638392528949`
+                url: `https://discord.gg/RnDmyGjWMS`
             }
         ]
     });
