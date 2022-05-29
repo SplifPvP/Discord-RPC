@@ -66,4 +66,4 @@ RPC.login({ clientId }).catch(err => console.error(err));
 # Contact me
 Contact Information
 
-[![Discord](https://img.shields.io/badge/Discord-SplifPvP%9298-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hTR5VRQc3Y) [![Discord](https://img.shields.io/badge/Discord-Crove-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hTR5VRQc3Y)
+[![Discord](https://img.shields.io/badge/Discord-SplifPvP%239298-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hTR5VRQc3Y) [![Discord](https://img.shields.io/badge/Discord-Crove-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hTR5VRQc3Y)
