@@ -1,0 +1,14 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord-RPC Example by SplifPvP#9298",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./src/app.js"
+  },
+  "author": "SplifPvP",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
