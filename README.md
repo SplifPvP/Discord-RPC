@@ -22,7 +22,8 @@ A simple RPC client for Discord, Doubts? enter my discord and create a ticket =>
 * Step 9: Start the bot with `npm run test`!
 
 ## Show app.js file
-```const clientId = 'CLIENT-ID-HERE'; // Put here the client Id you copied.
+```javascript
+const clientId = 'CLIENT-ID-HERE'; // Put here the client Id you copied.
 const DiscordRPC = require('discord-rpc');
 const RPC = new DiscordRPC.Client({ transport: 'ipc' });
 
